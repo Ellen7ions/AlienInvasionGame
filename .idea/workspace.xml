@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8349ae2-ed18-4a0d-8617-ee7f6308a60b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X5xDTjaQcdvFBZQAKIYu8JRvgf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="gameevent" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlianInvasion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gameevent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlianInvasion" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.gameevent" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8349ae2-ed18-4a0d-8617-ee7f6308a60b" name="Default Changelist" comment="" />
+      <created>1580349636536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580349636536</updated>
+      <workItem from="1580349640192" duration="82000" />
+      <workItem from="1580350054681" duration="1074000" />
+      <workItem from="1580352467863" duration="11000" />
+      <workItem from="1580353006647" duration="16990000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1767" height="259" key="GridCell.Tab.0.bottom" timestamp="1580372865406">
+      <screen x="83" y="27" width="1837" height="1053" />
+    </state>
+    <state width="1767" height="259" key="GridCell.Tab.0.bottom/83.27.1837.1053@83.27.1837.1053" timestamp="1580372865406" />
+    <state width="1767" height="259" key="GridCell.Tab.0.center" timestamp="1580372865404">
+      <screen x="83" y="27" width="1837" height="1053" />
+    </state>
+    <state width="1767" height="259" key="GridCell.Tab.0.center/83.27.1837.1053@83.27.1837.1053" timestamp="1580372865404" />
+    <state width="1767" height="259" key="GridCell.Tab.0.left" timestamp="1580372865403">
+      <screen x="83" y="27" width="1837" height="1053" />
+    </state>
+    <state width="1767" height="259" key="GridCell.Tab.0.left/83.27.1837.1053@83.27.1837.1053" timestamp="1580372865403" />
+    <state width="1767" height="259" key="GridCell.Tab.0.right" timestamp="1580372865404">
+      <screen x="83" y="27" width="1837" height="1053" />
+    </state>
+    <state width="1767" height="259" key="GridCell.Tab.0.right/83.27.1837.1053@83.27.1837.1053" timestamp="1580372865404" />
+    <state x="344" y="100" key="SettingsEditor" timestamp="1580350117317">
+      <screen x="83" y="27" width="1837" height="1053" />
+    </state>
+    <state x="344" y="100" key="SettingsEditor/83.27.1837.1053@83.27.1837.1053" timestamp="1580350117317" />
+    <state x="551" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1580350057742">
+      <screen x="83" y="27" width="1837" height="1053" />
+    </state>
+    <state x="551" y="341" key="com.intellij.ide.util.TipDialog/83.27.1837.1053@83.27.1837.1053" timestamp="1580350057742" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AlianInvasion$gameevent.coverage" NAME="gameevent Coverage Results" MODIFIED="1580355339149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AlianInvasion$main.coverage" NAME="main Coverage Results" MODIFIED="1580372525475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
